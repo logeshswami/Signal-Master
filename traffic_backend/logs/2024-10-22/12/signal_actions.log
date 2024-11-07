@@ -1,0 +1,12 @@
+2024-10-22 12:29:34,375 - Signal  started 
+2024-10-22 12:31:49,970 - Signal 3 stopped
+2024-10-22 12:44:19,379 - Signal  started 
+2024-10-22 12:46:52,770 - Signal  started 
+2024-10-22 12:47:26,428 - Signal 2 stopped
+2024-10-22 12:51:38,089 - Signal  started 
+2024-10-22 12:53:24,997 - Signal 1 stopped
+2024-10-22 12:54:13,927 - Signal 1 resumed
+2024-10-22 12:54:32,835 - Updated current green signal to 1 with green time: 5 seconds
+2024-10-22 12:54:39,208 - Signal 1 stopped
+2024-10-22 12:55:07,259 - Signal 2 resumed
+2024-10-22 12:57:06,870 - Signal 3 stopped

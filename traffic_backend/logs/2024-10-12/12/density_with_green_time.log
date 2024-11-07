@@ -1,0 +1,5 @@
+2024-10-12 12:53:08,671 - Signal1 ,Density: NA, Green Time Set: 20 seconds
+2024-10-12 12:53:28,975 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-12 12:53:44,975 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-12 12:57:57,472 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-12 12:58:12,570 - Signal4 ,Density: {'car': 25, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 0, 'bus': 0}, Green Time Set: 25 seconds

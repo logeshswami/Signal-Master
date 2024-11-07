@@ -1,0 +1,13 @@
+{
+    "monthlyTrafficData": {
+        "month": "October",
+        "counts": {
+            "Cars": 40000,
+            "Trucks": 11000,
+            "Buses": 3000,
+            "Bikes": 8000,
+            "Vans": 6000,
+            "Triwheels": 900
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "weeklyTrafficData": [
+        {
+            "day": "Monday",
+            "counts": {
+                "Cars": 1200,
+                "Trucks": 350,
+                "Buses": 100,
+                "Bikes": 300,
+                "Vans": 200,
+                "Triwheels": 30
+            }
+        },
+        {
+            "day": "Tuesday",
+            "counts": {
+                "Cars": 1150,
+                "Trucks": 340,
+                "Buses": 90,
+                "Bikes": 280,
+                "Vans": 210,
+                "Triwheels": 25
+            }
+        },
+        {
+            "day": "Wednesday",
+            "counts": {
+                "Cars": 1300,
+                "Trucks": 360,
+                "Buses": 110,
+                "Bikes": 320,
+                "Vans": 190,
+                "Triwheels": 28
+            }
+        },
+        {
+            "day": "Thursday",
+            "counts": {
+                "Cars": 1250,
+                "Trucks": 330,
+                "Buses": 105,
+                "Bikes": 310,
+                "Vans": 220,
+                "Triwheels": 32
+            }
+        },
+        {
+            "day": "Friday",
+            "counts": {
+                "Cars": 1400,
+                "Trucks": 380,
+                "Buses": 120,
+                "Bikes": 350,
+                "Vans": 250,
+                "Triwheels": 35
+            }
+        },
+        {
+            "day": "Saturday",
+            "counts": {
+                "Cars": 900,
+                "Trucks": 250,
+                "Buses": 60,
+                "Bikes": 400,
+                "Vans": 150,
+                "Triwheels": 20
+            }
+        },
+        {
+            "day": "Sunday",
+            "counts": {
+                "Cars": 800,
+                "Trucks": 200,
+                "Buses": 50,
+                "Bikes": 300,
+                "Vans": 130,
+                "Triwheels": 15
+            }
+        }
+    ]
+}

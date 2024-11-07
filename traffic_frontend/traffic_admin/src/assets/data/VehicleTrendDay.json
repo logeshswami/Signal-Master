@@ -1,0 +1,269 @@
+{
+    "dayTrafficData": [
+      {
+        "time": "00:00",
+        "counts": {
+          "Cars": 50,
+          "Trucks": 20,
+          "Buses": 5,
+          "Bikes": 15,
+          "Vans": 10,
+          "Triwheels": 2
+        }
+      },
+      {
+        "time": "01:00",
+        "counts": {
+          "Cars": 30,
+          "Trucks": 10,
+          "Buses": 3,
+          "Bikes": 5,
+          "Vans": 7,
+          "Triwheels": 1
+        }
+      },
+      {
+        "time": "02:00",
+        "counts": {
+          "Cars": 20,
+          "Trucks": 5,
+          "Buses": 2,
+          "Bikes": 3,
+          "Vans": 4,
+          "Triwheels": 1
+        }
+      },
+      {
+        "time": "03:00",
+        "counts": {
+          "Cars": 15,
+          "Trucks": 3,
+          "Buses": 1,
+          "Bikes": 2,
+          "Vans": 3,
+          "Triwheels": 0
+        }
+      },
+      {
+        "time": "04:00",
+        "counts": {
+          "Cars": 10,
+          "Trucks": 2,
+          "Buses": 0,
+          "Bikes": 2,
+          "Vans": 2,
+          "Triwheels": 0
+        }
+      },
+      {
+        "time": "05:00",
+        "counts": {
+          "Cars": 20,
+          "Trucks": 5,
+          "Buses": 2,
+          "Bikes": 4,
+          "Vans": 5,
+          "Triwheels": 1
+        }
+      },
+      {
+        "time": "06:00",
+        "counts": {
+          "Cars": 60,
+          "Trucks": 15,
+          "Buses": 5,
+          "Bikes": 10,
+          "Vans": 8,
+          "Triwheels": 2
+        }
+      },
+      {
+        "time": "07:00",
+        "counts": {
+          "Cars": 100,
+          "Trucks": 30,
+          "Buses": 10,
+          "Bikes": 25,
+          "Vans": 15,
+          "Triwheels": 3
+        }
+      },
+      {
+        "time": "08:00",
+        "counts": {
+          "Cars": 120,
+          "Trucks": 35,
+          "Buses": 12,
+          "Bikes": 30,
+          "Vans": 20,
+          "Triwheels": 4
+        }
+      },
+      {
+        "time": "09:00",
+        "counts": {
+          "Cars": 150,
+          "Trucks": 40,
+          "Buses": 15,
+          "Bikes": 40,
+          "Vans": 25,
+          "Triwheels": 5
+        }
+      },
+      {
+        "time": "10:00",
+        "counts": {
+          "Cars": 130,
+          "Trucks": 30,
+          "Buses": 10,
+          "Bikes": 35,
+          "Vans": 20,
+          "Triwheels": 4
+        }
+      },
+      {
+        "time": "11:00",
+        "counts": {
+          "Cars": 120,
+          "Trucks": 25,
+          "Buses": 8,
+          "Bikes": 30,
+          "Vans": 15,
+          "Triwheels": 3
+        }
+      },
+      {
+        "time": "12:00",
+        "counts": {
+          "Cars": 140,
+          "Trucks": 28,
+          "Buses": 9,
+          "Bikes": 38,
+          "Vans": 22,
+          "Triwheels": 4
+        }
+      },
+      {
+        "time": "13:00",
+        "counts": {
+          "Cars": 110,
+          "Trucks": 22,
+          "Buses": 7,
+          "Bikes": 28,
+          "Vans": 18,
+          "Triwheels": 2
+        }
+      },
+      {
+        "time": "14:00",
+        "counts": {
+          "Cars": 100,
+          "Trucks": 20,
+          "Buses": 6,
+          "Bikes": 25,
+          "Vans": 15,
+          "Triwheels": 2
+        }
+      },
+      {
+        "time": "15:00",
+        "counts": {
+          "Cars": 90,
+          "Trucks": 18,
+          "Buses": 5,
+          "Bikes": 20,
+          "Vans": 12,
+          "Triwheels": 1
+        }
+      },
+      {
+        "time": "16:00",
+        "counts": {
+          "Cars": 110,
+          "Trucks": 25,
+          "Buses": 8,
+          "Bikes": 30,
+          "Vans": 20,
+          "Triwheels": 3
+        }
+      },
+      {
+        "time": "17:00",
+        "counts": {
+          "Cars": 150,
+          "Trucks": 40,
+          "Buses": 12,
+          "Bikes": 35,
+          "Vans": 25,
+          "Triwheels": 5
+        }
+      },
+      {
+        "time": "18:00",
+        "counts": {
+          "Cars": 160,
+          "Trucks": 45,
+          "Buses": 15,
+          "Bikes": 40,
+          "Vans": 30,
+          "Triwheels": 6
+        }
+      },
+      {
+        "time": "19:00",
+        "counts": {
+          "Cars": 170,
+          "Trucks": 50,
+          "Buses": 18,
+          "Bikes": 45,
+          "Vans": 35,
+          "Triwheels": 7
+        }
+      },
+      {
+        "time": "20:00",
+        "counts": {
+          "Cars": 140,
+          "Trucks": 40,
+          "Buses": 12,
+          "Bikes": 35,
+          "Vans": 25,
+          "Triwheels": 5
+        }
+      },
+      {
+        "time": "21:00",
+        "counts": {
+          "Cars": 100,
+          "Trucks": 30,
+          "Buses": 10,
+          "Bikes": 20,
+          "Vans": 15,
+          "Triwheels": 3
+        }
+      },
+      {
+        "time": "22:00",
+        "counts": {
+          "Cars": 80,
+          "Trucks": 20,
+          "Buses": 5,
+          "Bikes": 15,
+          "Vans": 10,
+          "Triwheels": 2
+        }
+      },
+      {
+        "time": "23:00",
+        "counts": {
+          "Cars": 60,
+          "Trucks": 15,
+          "Buses": 3,
+          "Bikes": 10,
+          "Vans": 5,
+          "Triwheels": 1
+        }
+      }
+    ]
+  }
+  

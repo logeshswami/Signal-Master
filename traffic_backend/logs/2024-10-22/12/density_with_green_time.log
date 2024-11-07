@@ -1,0 +1,25 @@
+2024-10-22 12:29:34,374 - Signal1 ,Density: NA, Green Time Set: 20 seconds
+2024-10-22 12:29:55,088 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-22 12:30:10,633 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:30:26,084 - Signal4 ,Density: {'car': 25, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 0, 'bus': 0}, Green Time Set: 25 seconds
+2024-10-22 12:30:56,244 - Signal1 ,Density: {'car': 13, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 3, 'bus': 0}, Green Time Set: 17 seconds
+2024-10-22 12:31:18,144 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-22 12:31:37,349 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:31:52,512 - Signal4 ,Density: {'car': 25, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 0, 'bus': 0}, Green Time Set: 25 seconds
+2024-10-22 12:44:19,378 - Signal1 ,Density: NA, Green Time Set: 20 seconds
+2024-10-22 12:46:52,770 - Signal1 ,Density: NA, Green Time Set: 20 seconds
+2024-10-22 12:47:13,149 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-22 12:47:29,568 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:51:38,089 - Signal1 ,Density: NA, Green Time Set: 20 seconds
+2024-10-22 12:51:58,235 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-22 12:52:14,416 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:52:29,678 - Signal4 ,Density: {'car': 25, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 0, 'bus': 0}, Green Time Set: 25 seconds
+2024-10-22 12:53:00,052 - Signal1 ,Density: {'car': 13, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 3, 'bus': 0}, Green Time Set: 17 seconds
+2024-10-22 12:53:22,331 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-22 12:54:30,647 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:55:26,637 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:55:40,411 - Signal4 ,Density: {'car': 25, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 0, 'bus': 0}, Green Time Set: 25 seconds
+2024-10-22 12:56:11,263 - Signal1 ,Density: {'car': 13, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 3, 'bus': 0}, Green Time Set: 17 seconds
+2024-10-22 12:56:32,859 - Signal2 ,Density: {'car': 12, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 1, 'bus': 0}, Green Time Set: 14 seconds
+2024-10-22 12:56:52,122 - Signal3 ,Density: {'car': 7, 'tri-wheeler': 0, 'two-wheeler': 2, 'truck': 0, 'bus': 0}, Green Time Set: 10 seconds
+2024-10-22 12:57:07,770 - Signal4 ,Density: {'car': 25, 'tri-wheeler': 0, 'two-wheeler': 0, 'truck': 0, 'bus': 0}, Green Time Set: 25 seconds

@@ -1,0 +1,14 @@
+.preloader-container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.preloader-container h1 {
+    color: #2c2c2c;
+    font-size: 300%;
+}
